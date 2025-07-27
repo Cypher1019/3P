@@ -45,8 +45,8 @@ export const playerStats: PlayerStats[] = [
     threePtAttempts: 894,
     threePtMade: 357,
     threePtPercentage: 40.0
-  }
-
+  },
+  
   {
     id: "tatum-jayson",
     name: "Jayson Tatum",
