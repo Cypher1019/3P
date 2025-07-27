@@ -47,7 +47,7 @@ export const playerStats: PlayerStats[] = [
     threePtPercentage: 40.0
   },
   
-  {
+  
     id: "tatum-jayson",
     name: "Jayson Tatum",
     team: "Boston Celtics",
